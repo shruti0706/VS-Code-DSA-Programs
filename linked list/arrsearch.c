@@ -1,6 +1,6 @@
 //prgram to search an element in 1D array
 #include <stdio.h>
-
+ 
 int main()
 {
     int arr[10] ;
