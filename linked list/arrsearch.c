@@ -5,7 +5,7 @@ int main()
 {
     int arr[10] ;
     int i, num;
-       
+     
       for(i=0;i<10;i++){
           printf("enter the value for number %d-",i);
           scanf("%d",&arr[i]);
