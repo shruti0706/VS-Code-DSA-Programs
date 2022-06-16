@@ -1,7 +1,7 @@
 //binary search
 #include<stdio.h>
 int main()
-{
+{ 
     int n,i,num,first,last,mid;
     printf("enter no. 0f elements in elements :");
     scanf("%d",&n);
