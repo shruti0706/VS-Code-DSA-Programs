@@ -5,7 +5,7 @@ int main()
     int n,i,num,first,last,mid;
     printf("enter no. 0f elements in elements :");
     scanf("%d",&n);
-    int arr[n];
+    int arr[n]; 
     
     printf("\nenter elements in ascending order:");
     for(i=1;i<=n;i++)
