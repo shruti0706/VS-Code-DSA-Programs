@@ -1,6 +1,6 @@
 //decimal to octal
 #include<stdio.h>
-
+  
 int main(){
 int octn[10],n,i=0,j;
 printf("enter decimal number: ");
