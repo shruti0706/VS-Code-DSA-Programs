@@ -5,7 +5,7 @@ int main(){
 int octn[10],n,i=0,j;
 printf("enter decimal number: ");
 scanf("%d",&n);
-
+  
 while(n!=0){
     octn[i++]=n%8;
     n=n/8;
