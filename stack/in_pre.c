@@ -1,5 +1,5 @@
 // infix to prefix
-  
+
 #include <stdio.h>
 #include <conio.h>
 
